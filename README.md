@@ -1,7 +1,28 @@
-Key Features:
 
-- Instant UUID Retrieval: Simply hover over an item in your inventory and instantly see its unique identifier.
-- User-Friendly Interface: A sleek and intuitive design makes fetching UUIDs a breeze, even for new players.
-- Compatibility: Works seamlessly with other mods and versions, ensuring you can integrate it into your existing setup without hassle.
-- Customizable Settings: Tailor the mod to fit your needs with adjustable features, including display options and key bindings.
-Whether you’re a modder looking to enhance your creations or a player wanting to keep track of your rare items, the UUID Fetcher is the perfect addition to your Minecraft toolkit. Get ready to dive deeper into the world of item management!
+![unknown](https://user-images.githubusercontent.com/116639375/198006274-7b03bdc9-47c2-4632-9f63-34cee7ca042c.png)
+The most used uuid checker!
+-itemData
+
+is a 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock
+
+-What it does:
+
+This mod adds High-Value Dupe checker into your skyblock experience.
+
+uuid nbt
+
+it show you the UUID and the nbt of the item
+
+Skys Dupe Checker Download: A side mod of Skytils/Sbe, An amazing Dupe Checker. although SBE and Skytils are better in different aspects, NBT is better overall for dupe checking, as skytils and SBE's api lacks in quality.
+
+-Update 1.4.12
+
+Skytils Support, Better api, Faster response time, Cleaner GUI, 1.7.5 is here.
+
+-Why is this usefull?
+
+Many players have been wiped before, Now this will prevent it. Don't buy anything before Dupe-Checking it!
+
+Hotkeys: (Configurable in Controls Menu)
+
+P - Opens SmileCrystal Gui O - Shows you ITEMDATA
